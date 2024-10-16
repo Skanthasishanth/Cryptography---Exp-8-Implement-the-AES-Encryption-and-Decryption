@@ -1,10 +1,10 @@
-# Cryptography---Exp-8-Implement-the-AES-Encryption-and-Decryption
+# Exp-8 Implement the AES Encryption and Decryption
 
 ## AIM :
 
 To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
-## ALGORITHM :
+## DESIGN STEPS :
 
 ### Step 1:
 
@@ -67,4 +67,4 @@ int main() {
 
 ## RESULT:
 
-Hence,to use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption is done successfully.
+Hence, to use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption is done successfully.
